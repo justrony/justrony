@@ -1,4 +1,4 @@
-## Call me Rony
+## Call me Roni
 📧 ronielle.souza5@gmail.com </br>
 📧 ronielle.souza63@aluno.ifce.edu.br
 <div align="left">
@@ -8,6 +8,7 @@
 </div>
 
 <div align="left" style="display: inline_block"><br>
+  <img align="center" alt="Rony-Lua" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg">
   <img align="center" alt="Rony-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rony-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rony-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
